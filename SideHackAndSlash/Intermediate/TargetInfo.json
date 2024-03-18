@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SideHackAndSlash",
+			"Path": "..\\Source\\SideHackAndSlash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SideHackAndSlashEditor",
+			"Path": "..\\Source\\SideHackAndSlashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

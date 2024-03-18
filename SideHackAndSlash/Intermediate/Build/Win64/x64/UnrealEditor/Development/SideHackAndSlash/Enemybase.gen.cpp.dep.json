@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\unrealeditor\\inc\\sidehackandslash\\uht\\enemybase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\x64\\sidehackandslasheditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sidehackandslash\\definitions.sidehackandslash.h",
+            "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\source\\sidehackandslash\\enemy\\enemybase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\unrealeditor\\inc\\sidehackandslash\\uht\\enemybase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

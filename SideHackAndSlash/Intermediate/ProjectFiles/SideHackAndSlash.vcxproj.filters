@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SideHackAndSlash.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideHackAndSlash.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SideHackAndSlashEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SideHackAndSlash">
+      <UniqueIdentifier>{0719C292-B445-36D0-99B5-03AB7B7400CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideHackAndSlash\SideHackAndSlash.Build.cs">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SideHackAndSlash\SideHackAndSlash.cpp">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideHackAndSlash\SideHackAndSlash.h">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideHackAndSlash\SideHackAndSlashCharacter.cpp">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideHackAndSlash\SideHackAndSlashCharacter.h">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideHackAndSlash\SideHackAndSlashGameMode.cpp">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideHackAndSlash\SideHackAndSlashGameMode.h">
+      <Filter>Source\SideHackAndSlash</Filter>
+    </ClInclude>
+    <Filter Include="Source\SideHackAndSlash\Enemy">
+      <UniqueIdentifier>{F52050DF-9854-3F9B-A95D-EF588E1EABC7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SideHackAndSlash\Enemy\Enemybase.cpp">
+      <Filter>Source\SideHackAndSlash\Enemy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideHackAndSlash\Enemy\Enemybase.h">
+      <Filter>Source\SideHackAndSlash\Enemy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

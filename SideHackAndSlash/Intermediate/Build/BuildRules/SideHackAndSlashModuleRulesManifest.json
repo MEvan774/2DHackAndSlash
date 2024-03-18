@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlash\\SideHackAndSlash.Build.cs",
+		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlash.Target.cs",
+		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlashEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
