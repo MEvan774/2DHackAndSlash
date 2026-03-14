@@ -158,7 +158,7 @@ Game/
 
 ## Status
 
-This is a work-in-progress combat foundation, not a finished game or prototype. There is one weapon, a single test enemy that cannot die, and no game loop — the focus is entirely on building out the core combat architecture. That said, the underlying systems (data-driven combos, input buffering, animation-event hitboxes, GAS-based reactions) are designed to scale: adding new weapons is a matter of creating a new `PDA_Weapon` data asset, new attack types extend through `Enum_AttackType` and corresponding Gameplay Abilities, and the reusable combat component can be dropped onto any actor with a PaperZD animation setup.
+This is a work-in-progress combat foundation, not a finished game or prototype. There is one weapon, a single test enemy, and no game loop — the focus is entirely on building out the core combat architecture. That said, the underlying systems (data-driven combos, input buffering, animation-event hitboxes, GAS-based reactions) are designed to scale: adding new weapons is a matter of creating a new `PDA_Weapon` data asset, new attack types extend through `Enum_AttackType` and corresponding Gameplay Abilities, and the reusable combat component can be dropped onto any actor with a PaperZD animation setup.
 
 ## License
 
