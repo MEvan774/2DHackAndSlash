@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SST.cpp.obj": [
+			"CameraTrigger.gen.cpp.obj",
+			"CameraTriggerUpdateContents.gen.cpp.obj",
+			"FollowCameraComponent.gen.cpp.obj",
+			"OneWayPlatform.gen.cpp.obj",
+			"SST.init.gen.cpp.obj",
+			"SSTCharacter.gen.cpp.obj",
+			"SSTCharacterMovementComponent.gen.cpp.obj",
+			"CameraTrigger.cpp.obj",
+			"FollowCameraComponent.cpp.obj",
+			"OneWayPlatform.cpp.obj",
+			"SST.cpp.obj",
+			"SSTCharacter.cpp.obj",
+			"SSTCharacterMovementComponent.cpp.obj"
+		]
+	}
+}

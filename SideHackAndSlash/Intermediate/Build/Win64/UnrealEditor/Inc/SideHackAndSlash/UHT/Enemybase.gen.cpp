@@ -141,11 +141,11 @@ void EmptyLinkFunctionForGeneratedCodeEnemybase() {}
 	const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_AEnemybase_Statics::NewProp_CurrentState = { "CurrentState", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemybase, CurrentState), Z_Construct_UEnum_SideHackAndSlash_EEnemyStates, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemybase_Statics::NewProp_CurrentState_MetaData), Z_Construct_UClass_AEnemybase_Statics::NewProp_CurrentState_MetaData) }; // 9787433
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP_MetaData[] = {
-		{ "Category", "State" },
+		{ "Category", "Stats" },
 		{ "ModuleRelativePath", "Enemy/Enemybase.h" },
 	};
 #endif
-	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP = { "MaxHP", nullptr, (EPropertyFlags)0x0010000000020005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemybase, MaxHP), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP_MetaData), Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP_MetaData) };
+	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP = { "MaxHP", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemybase, MaxHP), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP_MetaData), Z_Construct_UClass_AEnemybase_Statics::NewProp_MaxHP_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEnemybase_Statics::NewProp_CurrentHP_MetaData[] = {
 		{ "Category", "State" },
@@ -192,19 +192,19 @@ void EmptyLinkFunctionForGeneratedCodeEnemybase() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEnemybase);
 	AEnemybase::~AEnemybase() {}
-	struct Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo[] = {
 		{ EEnemyStates_StaticEnum, TEXT("EEnemyStates"), &Z_Registration_Info_UEnum_EEnemyStates, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 9787433U) },
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemybase, AEnemybase::StaticClass, TEXT("AEnemybase"), &Z_Registration_Info_UClass_AEnemybase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemybase), 2972067104U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AEnemybase, AEnemybase::StaticClass, TEXT("AEnemybase"), &Z_Registration_Info_UClass_AEnemybase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemybase), 3745230213U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_1143079826(TEXT("/Script/SideHackAndSlash"),
-		Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_372228613(TEXT("/Script/SideHackAndSlash"),
+		Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::ClassInfo),
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Milan_Documents_Unreal_Projects_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Milan_Documents_GitHub_2DHackAndSlash_SideHackAndSlash_Source_SideHackAndSlash_Enemy_Enemybase_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

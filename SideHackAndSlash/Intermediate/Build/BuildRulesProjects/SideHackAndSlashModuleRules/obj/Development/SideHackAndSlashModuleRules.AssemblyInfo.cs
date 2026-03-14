@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SideHackAndSlashModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e3f25876378f8a75bd6da04aa977149100dbbcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SideHackAndSlashModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SideHackAndSlashModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

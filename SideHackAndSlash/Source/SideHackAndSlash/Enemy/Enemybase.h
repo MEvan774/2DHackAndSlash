@@ -31,7 +31,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "EnemyBehaviour")
 	EEnemyStates CurrentState;
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "State");
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Stats");
 	int32 MaxHP;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "State");

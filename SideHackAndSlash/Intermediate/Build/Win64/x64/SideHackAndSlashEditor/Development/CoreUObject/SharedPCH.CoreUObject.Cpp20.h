@@ -1,3 +1,3 @@
 // PCH for Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h
-#include "C:/Users/Milan/Documents/Unreal Projects/SideHackAndSlash/Intermediate/Build/Win64/x64/SideHackAndSlashEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h"
+#include "C:/Users/Milan/Documents/GitHub/2DHackAndSlash/SideHackAndSlash/Intermediate/Build/Win64/x64/SideHackAndSlashEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h"
 #include "Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h"

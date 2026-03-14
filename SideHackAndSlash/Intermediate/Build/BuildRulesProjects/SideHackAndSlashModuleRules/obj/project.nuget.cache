@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASqPvPw7eOgfH4ks5ah//tnIejb2XEkrAsOwJkuJMHj4zFte13rLa2N4LYm1H7vfligy1Uq3mG4y7aWtR9aoVw==",
+  "dgSpecHash": "kADeDob1ldo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Intermediate\\Build\\BuildRulesProjects\\SideHackAndSlashModuleRules\\SideHackAndSlashModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Intermediate\\Build\\BuildRulesProjects\\SideHackAndSlashModuleRules\\SideHackAndSlashModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milan\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\Milan\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
@@ -139,10 +139,7 @@
     "C:\\Users\\Milan\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Milan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\Milan\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Milan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Milan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Milan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Milan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\Milan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

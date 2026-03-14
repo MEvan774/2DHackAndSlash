@@ -1,8 +1,11 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlash\\SideHackAndSlash.Build.cs",
-		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlash.Target.cs",
-		"C:\\Users\\Milan\\Documents\\Unreal Projects\\SideHackAndSlash\\Source\\SideHackAndSlashEditor.Target.cs"
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Source\\SideHackAndSlash\\SideHackAndSlash.Build.cs",
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Plugins\\SST\\Source\\SST\\SST.Build.cs",
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Source\\SideHackAndSlash.Target.cs",
+		"C:\\Users\\Milan\\Documents\\GitHub\\2DHackAndSlash\\SideHackAndSlash\\Source\\SideHackAndSlashEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

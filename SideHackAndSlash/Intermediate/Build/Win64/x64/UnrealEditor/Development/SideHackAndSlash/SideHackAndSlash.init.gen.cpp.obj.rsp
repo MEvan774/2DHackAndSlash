@@ -1,11 +1,11 @@
-"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\UnrealEditor\Inc\SideHackAndSlash\UHT\SideHackAndSlash.init.gen.cpp"
-/FI"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\Definitions.SideHackAndSlash.h"
-/Yu"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.init.gen.cpp.obj"
-/sourceDependencies "C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.init.gen.cpp.dep.json"
-@"C:\Users\Milan\Documents\Unreal Projects\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.Shared.rsp"
+"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\UnrealEditor\Inc\SideHackAndSlash\UHT\SideHackAndSlash.init.gen.cpp"
+/FI"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\Definitions.SideHackAndSlash.h"
+/Yu"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\SideHackAndSlashEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.init.gen.cpp.obj"
+/sourceDependencies "C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.init.gen.cpp.dep.json"
+@"C:\Users\Milan\Documents\GitHub\2DHackAndSlash\SideHackAndSlash\Intermediate\Build\Win64\x64\UnrealEditor\Development\SideHackAndSlash\SideHackAndSlash.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

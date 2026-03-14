@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\unrealeditor\\inc\\sidehackandslash\\uht\\sidehackandslash.init.gen.cpp",
+        "Source": "c:\\users\\milan\\documents\\github\\2dhackandslash\\sidehackandslash\\intermediate\\build\\win64\\unrealeditor\\inc\\sidehackandslash\\uht\\sidehackandslash.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\x64\\sidehackandslasheditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\milan\\documents\\github\\2dhackandslash\\sidehackandslash\\intermediate\\build\\win64\\x64\\sidehackandslasheditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\milan\\documents\\unreal projects\\sidehackandslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sidehackandslash\\definitions.sidehackandslash.h"
+            "c:\\users\\milan\\documents\\github\\2dhackandslash\\sidehackandslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sidehackandslash\\definitions.sidehackandslash.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
