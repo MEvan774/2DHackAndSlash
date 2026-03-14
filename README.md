@@ -158,7 +158,7 @@ Game/
 
 ## Status
 
-This is a prototype / vertical slice demonstrating the combat system architecture. It is not a complete game — there is one weapon, one enemy type, and no game loop beyond the combat mechanics. The system is designed to be extensible: adding new weapons means creating a new `PDA_Weapon` data asset with different combo arrays, and new attack types can be added by extending the `Enum_AttackType` and adding corresponding Gameplay Abilities.
+This is a work-in-progress combat foundation, not a finished game or prototype. There is one weapon, a single test enemy that cannot die, and no game loop — the focus is entirely on building out the core combat architecture. That said, the underlying systems (data-driven combos, input buffering, animation-event hitboxes, GAS-based reactions) are designed to scale: adding new weapons is a matter of creating a new `PDA_Weapon` data asset, new attack types extend through `Enum_AttackType` and corresponding Gameplay Abilities, and the reusable combat component can be dropped onto any actor with a PaperZD animation setup.
 
 ## License
 
